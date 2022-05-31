@@ -219,17 +219,17 @@ prod_uf <- prod_uf %>%
 
 ## Define os subtítulos do gráfico
 subtitles <- tibble(
-  x = 0,
-  y = c(0.91, 0.85),
+  x = 0.5,
+  y = c(0.92, 0.85),
   size = c(6, 5),
   label = c(
     "Os gráficos abaixo exibem a produção em toneladas de cultivos relacionados a bebidas amplamente consumidas no Brasil.<br>
-    São cultivos de <span style='color:#429900;'>Cana-de-açúcar</span>,
-    <span style='color:#944000;'>Café (em grão) Total</span>,
-    <span style='color:#998000;'>Cevada (em grão)</span> e 
-    <span style='color:#99002A;'>Guaraná (semente)</span>.",
+    São cultivos de <span style='color:#429900;font-size:32px;'>Cana-de-açúcar</span>,
+    <span style='color:#944000;font-size:32px;'>Café (em grão) Total</span>,
+    <span style='color:#998000;font-size:32px;'>Cevada (em grão)</span> e 
+    <span style='color:#99002A;font-size:32px;'>Guaraná (semente)</span>.",
     
-    "Os dados vêm da Pesquisa Agrícola Municipal (PAM). O gráfico foi produzido por Ícaro Bernardes (@IcaroBSC)."
+    "Os dados vêm da Pesquisa Agrícola Municipal (PAM) e foram obtidos por meio da Base dos Dados. O gráfico foi produzido por Ícaro Bernardes (@IcaroBSC)."
   )
 )
 
@@ -333,8 +333,8 @@ p <- NULL %>%
   
   ### Insere os subtítulos do gráfico
   ggtext::geom_richtext(aes(x = x, y = y, label = label, size = I(size)),
-                        lineheight = 1.4, fill = NA, label.color = NA,
-                        hjust = 0, vjust = 1, family = serif, data = subtitles) +
+                        lineheight = 1.9, fill = NA, label.color = NA,
+                        vjust = 1, family = serif, data = subtitles) +
   
   ### Define os limites 
   coord_cartesian(xlim = c(0,1), ylim = c(0,1)) +
