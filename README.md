@@ -4,7 +4,7 @@
 
 💻 Source of the image: https://github.com/IcaroBernardes/extrasviz/blob/master/inflacao/inflacao.R
 
-🌍 Twitter post: https://twitter.com/IcaroBSC/status/1531747217660424194
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1554216559211601921
 
 ![](https://github.com/IcaroBernardes/extrasviz/blob/master/inflacao/inflacao.png)
 
