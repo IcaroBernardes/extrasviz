@@ -4,7 +4,9 @@
 
 💻 Source of the image: https://github.com/IcaroBernardes/extrasviz/blob/master/imdb/carmensandiego.R
 
-🌍 Twitter post: https://twitter.com/IcaroBSC/status/
+💻 Source of the image: https://www.figma.com/community/file/1153726264888211963
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1571916428907024384
 
 ![](https://github.com/IcaroBernardes/extrasviz/blob/master/imdb/carmensandiego.png)
 
