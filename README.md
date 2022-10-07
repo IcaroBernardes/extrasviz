@@ -5,7 +5,7 @@
 
 💻 Source of the image: https://github.com/IcaroBernardes/extrasviz/blob/master/eleicoes2022/apuracao/1o_turno.R
 
-🌍 Twitter post: https://twitter.com/IcaroBSC/status/1571916428907024384
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1578176241655746560
 
 ![](https://github.com/IcaroBernardes/extrasviz/blob/master/eleicoes2022/apuracao/1o_turno.gif)
 
