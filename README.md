@@ -1,5 +1,14 @@
 # extrasviz
 
+
+## 1o turno das eleições presidenciais no Brasil (2022)
+
+💻 Source of the image: https://github.com/IcaroBernardes/extrasviz/blob/master/eleicoes2022/apuracao/1o_turno.R
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1571916428907024384
+
+![](https://github.com/IcaroBernardes/extrasviz/blob/master/eleicoes2022/apuracao/1o_turno.gif)
+
 ## Episode ratings on IMDb of the Carmen Sandiego show (Netflix)
 
 💻 Source of the image: https://github.com/IcaroBernardes/extrasviz/blob/master/imdb/carmensandiego.R
